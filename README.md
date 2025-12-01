@@ -1,0 +1,26 @@
+# ERC1155-Multi-Token
+
+Erc1155 Multi Token - Smart contract implementation.
+
+## Features
+
+- Secure implementation
+- Gas optimized
+- Well tested
+
+## Installation
+
+\`\`\`bash
+npm install
+\`\`\`
+
+## Usage
+
+\`\`\`bash
+npx hardhat compile
+npx hardhat test
+\`\`\`
+
+## License
+
+MIT
